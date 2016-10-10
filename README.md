@@ -37,3 +37,8 @@ How to Play
 -----------
 
 Use the space bar to jump over the obstacles. Don't hit the obstacles, bullets, or the nemeses.
+
+
+![alt text](https://github.com/pyrex8/block_the_knight_pygame/blob/master/level.png "level screen shot")
+
+
