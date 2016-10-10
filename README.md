@@ -8,6 +8,9 @@ Team: yapg
 Members: pyrex
 License: MIT
 
+![alt tag](http://url/to/opening_screen.png)
+
+
 Requirements
 ------------
 
