@@ -1,14 +1,17 @@
 Block the Knight
 =================
 
+
+![alt text](https://github.com/pyrex8/block_the_knight_pygame/blob/master/opening_screen.png "open screen shot")
+
+
+
 Entry in PyWeek #22  <http://www.pyweek.org/22/>
 URL: https://pyweek.org/e/yapg/
 Theme: You can't let him in here.
 Team: yapg
 Members: pyrex
 License: MIT
-
-![alt tag](http://url/to/opening_screen.png)
 
 
 Requirements
